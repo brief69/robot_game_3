@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Alpha",
+    "type": "Explorer",
+    "status": "Training",
+    "skills": {
+      "navigation": 70,
+      "analysis": 50,
+      "communication": 40
+    }
+  },
+  {
+    "id": "2",
+    "name": "Beta",
+    "type": "Helper",
+    "status": "Operational",
+    "skills": {
+      "navigation": 40,
+      "analysis": 60,
+      "communication": 80
+    }
+  },
+  {
+    "id": "3",
+    "name": "Gamma",
+    "type": "Guardian",
+    "status": "Maintenance",
+    "skills": {
+      "navigation": 50,
+      "analysis": 70,
+      "communication": 60
+    }
+  }
+]

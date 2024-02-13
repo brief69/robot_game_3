@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "VirtualRobotTrainer",
+    "slug": "virtual-robot-trainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/robots.png",
+    "splash": {
+      "image": "./assets/robots.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/robots.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/robots.png"
+    },
+    "description": "A cross-platform game developed with React Native, allowing users to teach and observe machine learning in robots within a virtual space that mimics the real world."
+  }
+}
